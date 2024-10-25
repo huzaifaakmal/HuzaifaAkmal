@@ -1,4 +1,4 @@
-##**Hi there 👋**
+#**Hi there 👋**
 Welcome to huzaifaakmal/HuzaifaAkmal! This ✨ special ✨ repository showcases my journey in tech and beyond.
 
 🚀 **About Me**
