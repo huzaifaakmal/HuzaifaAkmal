@@ -1,16 +1,13 @@
-## Hi there 👋
+###Hi there 👋
+Welcome to huzaifaakmal/HuzaifaAkmal! This ✨ special ✨ repository showcases my journey in tech and beyond.
 
-
-**huzaifaakmal/HuzaifaAkmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+##🚀 About Me
+🔭 I’m currently working on enhancing my programming skills and contributing to open-source projects.
+🌱 I’m currently learning Java, Data Science, and Computer Vision.
+👯 I’m looking to collaborate on projects that combine IT with innovative ideas.
+🤔 I’m looking for help with bioinformatics and image processing challenges.
+💬 Ask me about data engineering, software development, or any tech challenges.
+📫 How to reach me: Your Email
+😄 Pronouns: He/Him
+⚡ Fun fact: I love learning about historical sites and local folklore!
+Thanks for stopping by! 😊
